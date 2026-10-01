@@ -28,11 +28,11 @@
 <h3 align="center">A C T I V I T Y</h3>
 
 <p align="center">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=exfps&bg_color=0b1410&color=7fd6a4&line=1f8f5a&point=cfe8d8&area=true&area_color=004225&hide_border=true&radius=12&custom_title=Contribution%20Activity" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=exfps&background=0b1410&hide_border=true&border_radius=12&ring=1f8f5a&fire=3ddc84&currStreakNum=cfe8d8&sideNums=cfe8d8&currStreakLabel=7fd6a4&sideLabels=7fd6a4&dates=6b8f7b" />
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=exfps&show_icons=true&hide_border=true&border_radius=12&bg_color=0b1410&title_color=7fd6a4&text_color=cfe8d8&icon_color=1f8f5a&ring_color=1f8f5a&custom_title=GitHub%20Stats" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=exfps&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0b1410&title_color=7fd6a4&text_color=cfe8d8&icon_color=1f8f5a&ring_color=1f8f5a&custom_title=GitHub%20Stats" />
 </p>
 
 &nbsp;
