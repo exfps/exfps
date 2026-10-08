@@ -4,7 +4,7 @@
 
 `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-**19 — second-year IT student at Universidade Católica de Moçambique**
+**19 — second-year IT student**
 
 `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
