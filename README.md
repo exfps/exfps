@@ -12,6 +12,12 @@
 
 &nbsp;
 
+<p align="center">
+  <img alt="ASCII art" src="./ascii-art.svg" width="720" />
+</p>
+
+&nbsp;
+
 <h3 align="center">S T A C K</h3>
 
 <p align="center">
